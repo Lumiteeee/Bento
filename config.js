@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Lumite',
+  name: 'Alo',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: true,
