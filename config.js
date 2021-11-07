@@ -24,13 +24,13 @@ const CONFIG = {
 
   // Weather
   weatherKey: '57af5bd53372a6b5c853c2f563c252cd',
-  weatherIcons: 'Dark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'White', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+  defaultLatitude: '26.661060',
+  defaultLongitude: '-80.253840',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
